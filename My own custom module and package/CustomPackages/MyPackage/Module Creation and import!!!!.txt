@@ -1,0 +1,1 @@
+In this directory, a module file (MyModule.py)was created and imported into another program (main.py) where the functions and varables are imported.
